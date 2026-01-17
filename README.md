@@ -1,2 +1,3 @@
 # new-repository
-Repository for project
+This is a first line of README.md file.
+
